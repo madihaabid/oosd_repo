@@ -1,0 +1,44 @@
+          PROPOSAL OF PROJECT 
+
+
+SUBMITTED BY:
+MAIMOONA MUAZZAM (992)
+AMNA AFZAL (997) 
+MADIHA ABID (1040)
+BSSE F09A
+
+SUBMITTED TO:
+
+SIR KASHIF
+
+SUBJECT:
+
+OPEN SOURCE DEVELOPMENT TECHNOLOGIES 
+Library system
+Many library systems are operated manually by group of people. In such situations many people involved in the process of managing the library such a way that to keep records regarding the books & students (borrowers), check the books manually, keep records on issued books etc. all these things have to be carried out manually & if the library is large in content handling is also a problem. On the other hand keeping large amount of maintenance workers may cost a lot & it will not be efficient for a library. On the borrower’s point of view, in manual system borrower can’t find a book exactly at once as they are not ordered well. 
+•  Aims & Objectives
+The aim of this project is to develop a system that can handle & manage the activities involved in a library in an efficient & reliable way. Less managing personnel & easy searching availability & user profile managing are major goals in this project.
+ 
+•	Objectives
+	Develop a system that can replace the manual library managing system.
+	Develop a database which stores user details & book details.
+	Give reliable search facility for the users.
+	Administrator, librarian & users should have separate logins.
+	Create an easy to understand user friendly environment.
+
+•	Proposed Solution
+To achieve the aims & objectives of this project, the main thing is to identify the main features that involved in the system. In this scenario, there are three types of users; they are administrator, librarian & borrowers. All these users should be able to login to the system with separate logins. New users can be registered only under administrative concern. A database is there to store the user details & book details. This information can be retrieved by the users as per their privilege. Anyone can search the system using given specifications & the availability of the books are updated by the librarian immediately. 
+
+•	Activities 
+	Search for a book by title, name and author.
+	View the user details
+	Modify user details
+	Reserve books
+	Maintain book information add/delete books
+	Maintain database
+	View user details
+	Maintain user details
+	Issue and Return books
+	Add/delete books
+ 
+
